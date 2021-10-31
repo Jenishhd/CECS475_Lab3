@@ -62,6 +62,7 @@ namespace Mm.BusinessLayer
             return _courseRepository.GetList(c => c.Teacher.TeacherId.Equals(teacherId));
         }
 
+
         //CRUD for courses
 
         public IList<Course> GetAllCourses()

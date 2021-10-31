@@ -68,6 +68,10 @@ namespace ConsoleClient
                         Menu.clearMenu();
                         listCourses();
                         break;
+                    case 10:
+                        Menu.clearMenu();
+                        reassignCourse();
+                        break;
                 }
             } while (repeat);
         }
@@ -188,6 +192,7 @@ namespace ConsoleClient
             {
                 Console.WriteLine("Teacher does not exist.");
             };
+
         }
 
         //CRUD for courses
@@ -304,5 +309,66 @@ namespace ConsoleClient
             foreach (Course course in courses)
                 Console.WriteLine("Course ID: {0}, Name: {1}", course.CourseId, course.CourseName);
         }
+
+        public static void reassignCourse() 
+        {
+
+            listTeachers();
+            int id = Validator.getId();
+            Teacher teacher = businessLayer.GetTeacherById(id);
+            if (teacher != null)
+            {
+                Console.WriteLine("Listing courses for [ID: {0}, Name: {1}]:", teacher.TeacherId, teacher.TeacherName);
+                if (teacher.Courses.Count > 0)
+                {
+                    foreach (Course course in teacher.Courses)
+                        Console.WriteLine("Course ID: {0}, Name: {1}", course.CourseId, course.CourseName);
+                }
+                else
+                {
+                    Console.WriteLine("No courses for [ID: {0}, Name: {1}]:", teacher.TeacherId, teacher.TeacherName);
+                };
+
+            }
+            else
+            {
+                Console.WriteLine("Teacher does not exist.");
+            };
+
+
+            Console.WriteLine("1. Reassign course for this teacher");
+            Console.WriteLine("2. Exit");
+            int input = Validator.getOptionInput();
+            if (input == 1)
+            {
+                listCourses();
+                int user_input = Validator.getId();
+                Course course = businessLayer.GetCourseById(user_input);
+                Console.WriteLine(course.CourseName);
+                Teacher s_teacher = teacher;
+                foreach (Teacher some_teacher in businessLayer.GetAllTeachers())
+                {
+                    foreach (Course some_course in some_teacher.Courses)
+                    {
+                        if (some_course.Equals(course))
+                        {
+                            s_teacher = some_teacher;
+                            break;
+                        }
+                    }
+                }
+                Console.WriteLine(s_teacher.TeacherName);
+                course.Teacher = teacher;
+
+                teacher.EntityState = EntityState.Modified;
+                foreach (Course c in teacher.Courses)
+                    c.EntityState = EntityState.Unchanged;
+                teacher.Courses.Add(course);
+                course.EntityState = EntityState.Modified;
+                businessLayer.UpdateTeacher(teacher);
+
+            }
+        }
+
     }
 }

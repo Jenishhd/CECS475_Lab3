@@ -54,3 +54,23 @@ C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleC
 C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
 C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.exe
 C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\DomainModel.dll
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\Mm.BusinessLayer.dll
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\Mm.DataAccessLayer.dll
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\DomainModel.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\DomainModel.dll.config
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\Mm.BusinessLayer.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\Mm.DataAccessLayer.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\Mm.DataAccessLayer.dll.config
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.csproj.AssemblyReference.cache
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\SchoolDB.mdf
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\ConsoleClient\bin\Debug\SchoolDB_log.ldf

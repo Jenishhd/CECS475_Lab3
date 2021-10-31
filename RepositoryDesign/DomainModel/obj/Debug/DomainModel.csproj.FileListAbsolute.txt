@@ -24,3 +24,12 @@ C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\DomainModel\obj\Debug\DomainMode
 C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\DomainModel\obj\Debug\DomainModel.csproj.CopyComplete
 C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\DomainModel\obj\Debug\DomainModel.dll
 C:\PNgyuentransfer\cecs475fa17\RepositoryDesign\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\bin\Debug\DomainModel.dll.config
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\bin\Debug\EntityFramework.dll
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\bin\Debug\EntityFramework.xml
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\obj\Debug\DomainModel.csproj.CopyComplete
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\rutvi\Desktop\CECS475\Lab 3\CECS475_Lab3\RepositoryDesign\DomainModel\obj\Debug\DomainModel.pdb
